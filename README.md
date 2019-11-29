@@ -21,6 +21,7 @@ To Run:
   
   
   On OSX: 
+  Put all the folders of the sensors in one Folder and name it Sensors2
   1. Open a terminal and navigate to the folder using cd command.
   2. run the shell script test.sh using the following command:
             >>>  sh test.sh
