@@ -1,4 +1,11 @@
 # Scalable-Computing-Project-4
+Group 2:
+      Team members:
+            Aparna Ghosh
+            Deepthi Rajappan
+            Shubhangi Kukreti
+            Antony Helson Chandy
+
 Device Simulation code with 6 sensors.
 Each sensor contains the code to act as an Edge Node or Sensor Node.
 Each body instance has 6 sensor nodes and anyone of them can also be used as an edge node. 
