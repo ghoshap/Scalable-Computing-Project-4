@@ -1,0 +1,21 @@
+{
+    "Voltage " : {
+        "Min" : 2.9,
+        "Max" : 5.7,
+        "I2C" : 3
+    },
+
+    "Current" : {
+        "AciveMode" : 9,
+        "ShutdownMode" : 0.00165
+    },
+
+    "BitSize" :16,
+    "BitRate" : 0.1,
+
+    "SensingRange" :{
+        "Min" : 0.0,
+        "Max" : 50.0,
+        "Unit" : "mV"
+    }
+}
