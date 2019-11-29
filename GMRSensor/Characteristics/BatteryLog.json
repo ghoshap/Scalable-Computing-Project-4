@@ -1,0 +1,250 @@
+{
+    "Log": [
+        {
+            "CurrentPower": 5418.865605858485,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:58:06 PM"
+        },
+        {
+            "CurrentPower": 5418.840272525152,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:58:06 PM"
+        },
+        {
+            "CurrentPower": 5417.700949608485,
+            "PowerConsumed": 1.1393229166666667,
+            "Reason": "MC UART",
+            "TimeStamp": "11/21/2019 01:58:09 PM"
+        },
+        {
+            "CurrentPower": 5417.48683976,
+            "PowerConsumed": 0.2141098484848485,
+            "Reason": "Edge Controller TX b",
+            "TimeStamp": "11/21/2019 01:58:09 PM"
+        },
+        {
+            "CurrentPower": 5415.48683976,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:58:15 PM"
+        },
+        {
+            "CurrentPower": 5415.461506426667,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:58:15 PM"
+        },
+        {
+            "CurrentPower": 5413.461506426667,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:58:24 PM"
+        },
+        {
+            "CurrentPower": 5413.436173093334,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:58:24 PM"
+        },
+        {
+            "CurrentPower": 5413.263673093335,
+            "PowerConsumed": 0.17250000000000001,
+            "Reason": "Bluetooth Timer",
+            "TimeStamp": "11/21/2019 01:58:33 PM"
+        },
+        {
+            "CurrentPower": 5413.2589230933345,
+            "PowerConsumed": 0.004750000000000001,
+            "Reason": "GMRSensor Timer",
+            "TimeStamp": "11/21/2019 01:58:33 PM"
+        },
+        {
+            "CurrentPower": 5412.8839230933345,
+            "PowerConsumed": 0.375,
+            "Reason": "MC Timer",
+            "TimeStamp": "11/21/2019 01:58:33 PM"
+        },
+        {
+            "CurrentPower": 5410.8839230933345,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:58:34 PM"
+        },
+        {
+            "CurrentPower": 5410.858589760001,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:58:34 PM"
+        },
+        {
+            "CurrentPower": 5408.858589760001,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:58:43 PM"
+        },
+        {
+            "CurrentPower": 5408.833256426668,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:58:43 PM"
+        },
+        {
+            "CurrentPower": 5407.693933510001,
+            "PowerConsumed": 1.1393229166666667,
+            "Reason": "MC UART",
+            "TimeStamp": "11/21/2019 01:58:46 PM"
+        },
+        {
+            "CurrentPower": 5407.479823661517,
+            "PowerConsumed": 0.2141098484848485,
+            "Reason": "Edge Controller TX b",
+            "TimeStamp": "11/21/2019 01:58:46 PM"
+        },
+        {
+            "CurrentPower": 5405.479823661517,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:58:52 PM"
+        },
+        {
+            "CurrentPower": 5405.454490328184,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:58:52 PM"
+        },
+        {
+            "CurrentPower": 5403.454490328184,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:59:01 PM"
+        },
+        {
+            "CurrentPower": 5403.429156994851,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:59:01 PM"
+        },
+        {
+            "CurrentPower": 5403.256656994851,
+            "PowerConsumed": 0.17250000000000001,
+            "Reason": "Bluetooth Timer",
+            "TimeStamp": "11/21/2019 01:59:03 PM"
+        },
+        {
+            "CurrentPower": 5403.251906994851,
+            "PowerConsumed": 0.004750000000000001,
+            "Reason": "GMRSensor Timer",
+            "TimeStamp": "11/21/2019 01:59:03 PM"
+        },
+        {
+            "CurrentPower": 5402.876906994851,
+            "PowerConsumed": 0.375,
+            "Reason": "MC Timer",
+            "TimeStamp": "11/21/2019 01:59:03 PM"
+        },
+        {
+            "CurrentPower": 5400.876906994851,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:59:10 PM"
+        },
+        {
+            "CurrentPower": 5400.851573661518,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:59:10 PM"
+        },
+        {
+            "CurrentPower": 5399.712250744851,
+            "PowerConsumed": 1.1393229166666667,
+            "Reason": "MC UART",
+            "TimeStamp": "11/21/2019 01:59:13 PM"
+        },
+        {
+            "CurrentPower": 5399.498140896367,
+            "PowerConsumed": 0.2141098484848485,
+            "Reason": "Edge Controller TX b",
+            "TimeStamp": "11/21/2019 01:59:13 PM"
+        },
+        {
+            "CurrentPower": 5397.498140896367,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:59:19 PM"
+        },
+        {
+            "CurrentPower": 5397.472807563034,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:59:19 PM"
+        },
+        {
+            "CurrentPower": 5395.472807563034,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:59:28 PM"
+        },
+        {
+            "CurrentPower": 5395.447474229701,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:59:28 PM"
+        },
+        {
+            "CurrentPower": 5395.072474229701,
+            "PowerConsumed": 0.375,
+            "Reason": "MC Timer",
+            "TimeStamp": "11/21/2019 01:59:33 PM"
+        },
+        {
+            "CurrentPower": 5394.899974229701,
+            "PowerConsumed": 0.17250000000000001,
+            "Reason": "Bluetooth Timer",
+            "TimeStamp": "11/21/2019 01:59:33 PM"
+        },
+        {
+            "CurrentPower": 5394.895224229701,
+            "PowerConsumed": 0.004750000000000001,
+            "Reason": "GMRSensor Timer",
+            "TimeStamp": "11/21/2019 01:59:33 PM"
+        },
+        {
+            "CurrentPower": 5393.377224229701,
+            "PowerConsumed": 1.518,
+            "Reason": "Bluetooth RX",
+            "TimeStamp": "11/21/2019 01:59:35 PM"
+        },
+        {
+            "CurrentPower": 5391.457953396368,
+            "PowerConsumed": 1.919270833333334,
+            "Reason": "Bluetooth UART",
+            "TimeStamp": "11/21/2019 01:59:35 PM"
+        },
+        {
+            "CurrentPower": 5388.772406521368,
+            "PowerConsumed": 2.6855468750000004,
+            "Reason": "MC UART",
+            "TimeStamp": "11/21/2019 01:59:35 PM"
+        },
+        {
+            "CurrentPower": 5388.558296672883,
+            "PowerConsumed": 0.2141098484848485,
+            "Reason": "Edge Controller TX b",
+            "TimeStamp": "11/21/2019 01:59:35 PM"
+        },
+        {
+            "CurrentPower": 5386.558296672883,
+            "PowerConsumed": 2.0,
+            "Reason": "MC I2C",
+            "TimeStamp": "11/21/2019 01:59:37 PM"
+        },
+        {
+            "CurrentPower": 5386.53296333955,
+            "PowerConsumed": 0.025333333333333333,
+            "Reason": "GMRSensor I2C",
+            "TimeStamp": "11/21/2019 01:59:37 PM"
+        }
+    ]
+}
