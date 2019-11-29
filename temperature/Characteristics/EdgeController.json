@@ -1,0 +1,32 @@
+{
+    "Voltage" : {
+        "Min" : 2.5,
+        "Max" : 3.6,
+        "Input" : 3.3
+    },
+    
+    "Current" :
+    {
+        "Mode" : {
+            "Active" : 15.0,
+            "LightSleep" : 0.9,
+            "DeepSleep" : 0.02,
+            "ShutDown" : 0.0005
+        },
+        "TX" : {
+            "b" : 170,
+            "g" : 140
+        }
+    },
+    "BitRate" :
+    {
+        "TX" : 
+            {
+                "b" : 11.0,
+                "g" : 54.0
+            },
+        "UART" : 0.0384
+    },
+
+    "BitSize" : 16
+}

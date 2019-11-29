@@ -1,0 +1,22 @@
+{
+    "Voltage" : {
+        "Min" : 1.8,
+        "Max" : 3.6,
+        "Input" : 3.0
+    },
+    
+    "Current" :
+    {
+        "Mode" : {
+            "Run" : 0.15,
+            "Idle" : 0.08,
+            "Sleep" : 0.00003
+        }
+    },
+    "BitSize" :16,
+    "BitRate" : 
+    {
+        "I2C" : 0.1,
+        "UART" : 0.0384
+    }
+}
